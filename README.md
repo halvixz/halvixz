@@ -5,7 +5,11 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0KhbNFEmEbBnkccJGzWk-A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suspect.client/)
 
-![Halvi GitHub stats](https://github-readme-stats.vercel.app/api?username=giugiguiigig&show_icons=true&theme=dark)
+</div>
+  <a href="https://www.instagram.com/halvikkk9/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giugiguiigig&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
 ## Linguagens Que Estou Aprendendo
 
