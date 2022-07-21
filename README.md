@@ -12,7 +12,7 @@
   <img align="center" alt="c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="fotinha" height="250" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/1642819_bHFSSUV1.png">
+  <img align="right" alt="fotinha" height="250" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/413428_Q5ISRq4U.png">
 </div>
 
 ##
