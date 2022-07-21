@@ -23,7 +23,7 @@
 
 ![Snake animation](https://github.com/giugiguiigig/giugiguiigig/blob/output/github-contribution-grid-snake.svg)
 
-Nunca lamente, nunca reclame, nunca tente se justificar.
+Fazer 10 mil no mês parece difícil, até você começar a andar com pessoas que fazem 10 mil por dia. Ande com 5 inúteis e você será o 6º.
 
             
          
