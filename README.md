@@ -1,8 +1,8 @@
 ### **Olá! Eu sou o halvi 🤖**
 </div>
   <a href="https://www.instagram.com/halvikkk9/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giugiguiigig&show_icons=true&theme=synthwave"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giugiguiigig&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=halvizxy&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halvizxy&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ## Linguagens Que Estou Aprendendo
