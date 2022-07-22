@@ -1,28 +1,24 @@
-### **Olá! Eu sou o halvi 🤖**
-</div>
-  <a href="https://www.instagram.com/halvikkk9/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=halvizxy&show_icons=true&theme=synthwave"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halvizxy&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+<!--
 
+:)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="fotinha" height="250" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/413428_Q5ISRq4U.png">
-</div>
+-->
 
-##
+### **Hi, I am halvi 🤖**
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/426A8ewjqA)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0KhbNFEmEbBnkccJGzWk-A)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suspect.client/)
+### Contact Me [<img align="left" alt="halvi | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/38DzZqkG8e)
 
-![Snake animation](https://github.com/giugiguiigig/giugiguiigig/blob/output/github-contribution-grid-snake.svg)
-
-Fazer 10 mil no mês parece difícil, até você começar a andar com pessoas que fazem 10 mil por dia. Ande com 5 inúteis e você será o 6º.
+## I'm 15 years old and I'm a game cheat developer and I do reverse engineering!
+-   👨‍💻 C# / C++ / Python/ Html
+-   :pencil2: Predestined to win.
+-   👻 I am dev of cheat
+-   :thought_balloon: If you need me, contact me on discord: halvi#7535
+---
+### Tools:
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
 
             
          
