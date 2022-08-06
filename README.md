@@ -12,7 +12,7 @@
 -   👨‍💻 C# / C++ / Python/ HTML5/ CSS3
 -   :pencil2: Predestined to win.
 -   👻 I am dev of cheat
--   :thought_balloon: If you need me, contact me on discord: halvi#7535
+-   :thought_balloon: If you need me, contact me on discord: halvi#5543
 ---
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
