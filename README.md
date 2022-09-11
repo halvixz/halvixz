@@ -6,7 +6,7 @@
 
 ### **Hi, I am halvi 🤖**
 
-### Contact Me [<img align="left" alt="halvi | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/38DzZqkG8e)
+### Contact Me [<img align="left" alt="halvi | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/GudW7Zr4Wd)
 
 ## I'm 15 years old and I'm a game cheat developer and I do reverse engineering!
 -   👨‍💻 C# / C++ / Python/ HTML5/ CSS3
